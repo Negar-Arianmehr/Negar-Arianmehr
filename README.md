@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [www.negar-portfolio.com](www.negar-portfolio.com)
-
 - 💬 Ask me about **JavaScript, CSS and SCSS**
 
 - 📫 How to reach me **Negar.Arianmehr89@gmail.com**
