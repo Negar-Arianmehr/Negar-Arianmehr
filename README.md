@@ -7,7 +7,7 @@
 
 - 🌱 I’m always learning **New Subject**
 
-- 💬 Ask me about **JavaScript, CSS and SCSS**
+- 💬 Ask me about **Reactjs, JavaScript, CSS and SCSS**
 
 - 📫 How to reach me **Negar.Arianmehr89@gmail.com**
 
