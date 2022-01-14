@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **Freelance web developer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m always learning **New Subject**
 
 - 💬 Ask me about **JavaScript, CSS and SCSS**
 
