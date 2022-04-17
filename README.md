@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=negar-arianmehr" alt="negar-arianmehr" /></a> </p>
 
-- 🔭 I’m currently a **Freelance web developer**
+- 🔭 I’m currently **searching for a Job**
 
 - 🌱 I’m always learning **New Subject**
 
